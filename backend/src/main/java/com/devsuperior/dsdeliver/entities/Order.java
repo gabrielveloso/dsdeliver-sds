@@ -97,6 +97,15 @@ public class Order implements Serializable {
 	public Set<Product> getProducts() {
 		return products;
 	}
+	
+
+	public Instant getMoment() {
+		return moment;
+	}
+
+	public void setMoment(Instant moment) {
+		this.moment = moment;
+	}
 
 	@Override
 	public int hashCode() {
