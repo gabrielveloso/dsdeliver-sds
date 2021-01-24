@@ -16,11 +16,11 @@ function Footer(){
                     <YoutubeImg></YoutubeImg>
                 </a>
                 
-                <a href="" target="_new"> 
+                <a href="https://www.linkedin.com/in/gabriel-azuirson/" target="_new"> 
                     <LinkedinImg></LinkedinImg>
                 </a>
 
-                <a href="" target="_new">
+                <a href="https://www.linkedin.com/in/gabriel-azuirson/" target="_new">
                     <InstagramImg></InstagramImg>
                 </a>
 
