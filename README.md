@@ -23,3 +23,7 @@
 - REACT
 + NETLIFY
   + https://delivery-gabriel.netlify.app/
+  
++ libs: axios (http), leaflet (maps), toastify(messages on screen), react-select(select)
+  
+ 
