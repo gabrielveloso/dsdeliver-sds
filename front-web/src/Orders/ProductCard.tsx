@@ -1,4 +1,3 @@
-import { format } from "util";
 import { formatPrice } from "./helpers";
 import { Product } from "./Types";
 
