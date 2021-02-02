@@ -2,6 +2,7 @@ package com.devsuperior.dsdeliver.services;
 
 import java.time.Instant;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -51,5 +52,12 @@ public class OrderService {
 		Order order = repository.getOne(id);
 		order.setStatus(OrderStatus.DELIVERED);
 		return new OrderDTO(repository.save(order));
+	}
+	
+	@Transactional
+	public OrderDTO findById(Long id) {
+		Order order = repository.findById(id)
+				.orElse(new Order());
+		return new OrderDTO(order);
 	}
 }
