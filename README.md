@@ -23,7 +23,7 @@ A aplicação consiste em um aplicativo de delivery com tela de pedidos pelos cl
 ![Web 2](https://github.com/gabrielveloso/dsdeliver-sds/blob/main/web1.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/gabrielveloso/dsdeliver-sds/blob/main/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
