@@ -7,7 +7,7 @@ https://delivery-gabriel.netlify.app/
 
 SDS Deliver é uma aplicação full stack web e mobile construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em um aplicativo de delivery com tela de pedido pelos cliente e aplicativo mobile 
+A aplicação consiste em um aplicativo de delivery com tela de pedidos pelos cliente e aplicativo mobile para o entregador
 
 ## Layout web
 ![Web 1](https://github.com/gabrielveloso/dsdeliver-sds/blob/main/web2.png)
