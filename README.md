@@ -9,9 +9,6 @@ SDS Deliver é uma aplicação full stack web e mobile construída durante a 2ª
 
 A aplicação consiste em um aplicativo de delivery com tela de pedido pelos cliente e aplicativo mobile 
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
 ![Web 1](https://github.com/gabrielveloso/dsdeliver-sds/blob/main/web2.png)
 
