@@ -1,6 +1,14 @@
 # SDS Delivery
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielveloso/dsdeliver-sds/blob/main/LICENSE) 
 
+<p align="center">
+ <a href="#about-the-project">About</a> •
+ <a href="#layout-web">Layout web</a> • 
+ <a href="#modelo-conceitual">Modelo conceitual</a> • 
+ <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> •
+ <a href="#autor">Autor</a>
+</p>
+
 # About the project
 
 https://delivery-gabriel.netlify.app/
